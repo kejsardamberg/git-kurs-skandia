@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DABF-C6A9
+
+ Directory of C:\git-kurs
+
+2024-11-28  13:30    <DIR>          .
+2024-11-27  15:41             7ÿ258 .gitignore
+2024-11-27  15:41             1ÿ093 LICENSE
+2024-11-27  15:50             2ÿ464 README.md
+2024-11-28  13:30                 0 test2.txt
+               4 File(s)         10ÿ815 bytes
+               1 Dir(s)  343ÿ367ÿ929ÿ856 bytes free
